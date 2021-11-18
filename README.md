@@ -7,7 +7,7 @@
 
 
 - 📫 Contacto **dylan.gavilan32@gmail.com**
-- 📚 Actualmente estudiando en **Henry Bootcamp**
+- 📚 Graduado en **Henry Bootcamp**
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
