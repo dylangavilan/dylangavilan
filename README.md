@@ -7,7 +7,7 @@
 
 
 - 📫 Contacto **dylan.gavilan32@gmail.com**
-- 📚 Graduado en **Henry Bootcamp**
+- 📚 Actualmente estudian Licenciatura en Gestion de la Tecnologia en **UADE**
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
