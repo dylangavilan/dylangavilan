@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, yo soy Dylan Gavilan</h1>
-<h3 align="center">Soy un desarrollador web fullstack de Argentina, te dejo un poco sobre mi!</h3>
+<h3 align="left">Fullstack/Frontend developer</h3>
 
 
 
