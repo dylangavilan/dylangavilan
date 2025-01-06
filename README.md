@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, yo soy Dylan Gavilan</h1>
+<h1 align="center">Dylan Gavilan</h1>
 <h3 align="left">Fullstack/Frontend developer</h3>
 
 
