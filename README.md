@@ -7,7 +7,7 @@
 
 
 - 📫 Contacto **dylan.gavilan32@gmail.com**
-- 📚 Actualmente estudian Licenciatura en Gestion de la Tecnologia en **UADE**
+- 📚 Cursando Ingenieria en Informatica en **UADE**
 
 <h3 align="left">Contacto:</h3>
 <p align="left">
